@@ -14,7 +14,7 @@ league, saves the data in a JSON file, and then parses it into a CSV for the pur
 of conducting an offline draft due to limited E S P N keeper draft features.
 [written by Yelstin Fernandes]
 
-*packages used: dotenv, selenium, beautifulsoup, pandas* 
+*packages used: python-dotenv, selenium, beautifulsoup4, pandas* 
 
 **samples of output can be viewed in ./temp**
 
