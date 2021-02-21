@@ -1,11 +1,11 @@
-## markTaxiera: The Fantasy Baseball Keeper Tax Solution
+##### **markTaxiera: The Fantasy Baseball Keeper Tax Solution**
 
 Authors: Yelstin Fernandes & Justin Ramos
 
 ________________________________________________________________________________
 
 
-## Description
+### **Description**
 
 This python program does two tasks:
 
@@ -13,6 +13,9 @@ This python program does two tasks:
 league, saves the data in a JSON file, and then parses it into a CSV for the purposes
 of conducting an offline draft due to limited E S P N keeper draft features.
 [written by Yelstin Fernandes]
+
+**samples of output can be viewed in ./temp
+
 
 2) This python program will load transaction logs for teams in an E S P N
 fantasy baseball league. The program will facilitate the usage of a keeper tax
@@ -30,7 +33,7 @@ This program was built on MacOS using:
 ________________________________________________________________________________
 
 
-## Recommendations
+### **Recommendations**
 
 # Set up a virtual environment
 
@@ -57,7 +60,7 @@ To update the requirements.txt file run:
 
   pip freeze > requirements.txt
 
-# Set environment variables
+### **Set environment variables**
 
 Additionally in settings it is necessary to update the .env file to have
 proper connection strings
