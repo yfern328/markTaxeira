@@ -14,7 +14,7 @@ league, saves the data in a JSON file, and then parses it into a CSV for the pur
 of conducting an offline draft due to limited E S P N keeper draft features.
 [written by Yelstin Fernandes]
 
-**samples of output can be viewed in ./temp
+**samples of output can be viewed in ./temp**
 
 
 2) This python program will load transaction logs for teams in an E S P N
